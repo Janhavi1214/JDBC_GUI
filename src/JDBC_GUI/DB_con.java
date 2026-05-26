@@ -8,7 +8,7 @@ public class DB_con {
 		
 		String URL = "jdbc:mysql://localhost:3306/";
 		String user = "root";
-		String password = "janhavi@2004";
+		String password = "password";
 		
 		String dbName = "my_new_db";
 		
