@@ -1,6 +1,6 @@
 # JDBC GUI — Java Desktop App with MySQL Integration
 
-A Java Swing desktop application that demonstrates full CRUD (Create, Read, Update, Delete) operations on a MySQL database through a graphical user interface, built using raw JDBC without any ORM layer.
+A Java Swing desktop application that demonstrates full CRUD operations on a MySQL database through a graphical user interface, built using raw JDBC without any ORM layer.
 
 ---
 
